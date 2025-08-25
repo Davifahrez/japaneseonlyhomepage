@@ -10,7 +10,7 @@ Idk why not?
 
 The script monitors your YouTube feed and identifies videos whose titles lack Japanese characters. Once such a video is found, it programmatically clicks the "Not Interested" button.
 ## Installation
-1.  Click code install zip and extract
+1.  Download zip and extract
 2.  Install on any chromium browser
 
 ## Disclaimer
