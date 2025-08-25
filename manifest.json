@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Japanese Content Filter",
+  "version": "1.0",
+  "description": "Filters YouTube videos to only show content with Japanese characters in the title.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
