@@ -16,3 +16,7 @@ The script monitors your YouTube feed and identifies videos whose titles lack Ja
 ## Disclaimer
 
 This script is for personal use and entertainment purposes only. Use at your own risk. I am not responsible for any changes to your YouTube recommendations or any other consequences.
+
+## Alternatives
+
+If you really want to change your recommendations use this https://chromewebstore.google.com/detail/yulaf-youtube-language-fi/ejfoldoabjeidjdddhomeaojicaemdpm don't use mine
