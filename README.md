@@ -10,20 +10,8 @@ Idk why not?
 
 The script monitors your YouTube feed and identifies videos whose titles lack Japanese characters. Once such a video is found, it programmatically clicks the "Not Interested" button.
 ## Installation
-
-1.  **Clone this repository:**
-    ```bash
-    git clone https://github.com/Davifahrez/japaneseonlyhomepage/tree/main.git
-    cd japaneseonlyhomepage
-    ```
-2.  **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
-1.  Install on any chromium browser
+1.  Click code install zip and extract
+2.  Install on any chromium browser
 
 ## Disclaimer
 
