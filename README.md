@@ -13,8 +13,8 @@ The script monitors your YouTube feed and identifies videos whose titles lack Ja
 
 1.  **Clone this repository:**
     ```bash
-    git clone https://github.com/your-username/yt-recom.git
-    cd yt-recom
+    git clone https://github.com/Davifahrez/japaneseonlyhomepage/tree/main.git
+    cd japaneseonlyhomepage
     ```
 2.  **Install dependencies:**
     ```bash
