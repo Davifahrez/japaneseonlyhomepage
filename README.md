@@ -23,11 +23,7 @@ The script monitors your YouTube feed and identifies videos whose titles lack Ja
 
 ## Usage
 
-1.  **Run the script:**
-    ```bash
-    python main.py
-    ```
-2.  The script will open a browser window and start monitoring your YouTube feed.
+1.  Install on any chromium browser
 
 ## Disclaimer
 
